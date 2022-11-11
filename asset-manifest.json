@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BoxOffice/static/css/main.93052401.chunk.css",
-    "main.js": "/BoxOffice/static/js/main.bc690600.chunk.js",
-    "main.js.map": "/BoxOffice/static/js/main.bc690600.chunk.js.map",
+    "main.js": "/BoxOffice/static/js/main.cbf72f63.chunk.js",
+    "main.js.map": "/BoxOffice/static/js/main.cbf72f63.chunk.js.map",
     "runtime-main.js": "/BoxOffice/static/js/runtime-main.37dad279.js",
     "runtime-main.js.map": "/BoxOffice/static/js/runtime-main.37dad279.js.map",
     "static/js/2.b3603ebe.chunk.js": "/BoxOffice/static/js/2.b3603ebe.chunk.js",
     "static/js/2.b3603ebe.chunk.js.map": "/BoxOffice/static/js/2.b3603ebe.chunk.js.map",
     "index.html": "/BoxOffice/index.html",
-    "precache-manifest.1a61aca8739409080cff4dd289b4b58b.js": "/BoxOffice/precache-manifest.1a61aca8739409080cff4dd289b4b58b.js",
+    "precache-manifest.7080a592108af7e985d30847c49361b7.js": "/BoxOffice/precache-manifest.7080a592108af7e985d30847c49361b7.js",
     "service-worker.js": "/BoxOffice/service-worker.js",
     "static/css/main.93052401.chunk.css.map": "/BoxOffice/static/css/main.93052401.chunk.css.map",
     "static/js/2.b3603ebe.chunk.js.LICENSE.txt": "/BoxOffice/static/js/2.b3603ebe.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.37dad279.js",
     "static/js/2.b3603ebe.chunk.js",
     "static/css/main.93052401.chunk.css",
-    "static/js/main.bc690600.chunk.js"
+    "static/js/main.cbf72f63.chunk.js"
   ]
 }

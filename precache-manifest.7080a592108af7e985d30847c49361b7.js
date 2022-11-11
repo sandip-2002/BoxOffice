@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b1729c28311e77f6e7555bdcd55362b",
+    "revision": "8b35264e984b4155fb19a2e290fbc770",
     "url": "/BoxOffice/index.html"
   },
   {
-    "revision": "6ff8bfa33591c636f010",
+    "revision": "59e2181ad8cbce8d05b7",
     "url": "/BoxOffice/static/css/main.93052401.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BoxOffice/static/js/2.b3603ebe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ff8bfa33591c636f010",
-    "url": "/BoxOffice/static/js/main.bc690600.chunk.js"
+    "revision": "59e2181ad8cbce8d05b7",
+    "url": "/BoxOffice/static/js/main.cbf72f63.chunk.js"
   },
   {
     "revision": "2fef80242a692f7d0346",
